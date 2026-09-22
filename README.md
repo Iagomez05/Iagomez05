@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Computer Engineering student at Tecnológico de Costa Rica (TEC)</strong><br>
-  Software Engineering · Backend Systems · Computer Engineering<br>
+  Software Engineering · Backend Systems · Computer Systems<br>
   📍 Costa Rica
 </p>
 
@@ -17,19 +17,19 @@ I enjoy building useful software and understanding how its layers fit together, 
 ## Selected Projects
 
 ### [F1 Garage Manager](https://github.com/brema026/F1-Garage-Manager)
-**Team academic project · Node.js/Express · React · Microsoft SQL Server**  
+**Node.js/Express · React · Microsoft SQL Server** · team academic project  
 A Formula 1 garage management application with a web interface, API, and relational database. It brings together backend development, relational modeling, and data integrity across the system.
 
 ### [Community Music Player](https://github.com/Iagomez05/Community-Music-Player)
-**Team academic project · JavaFX · C# Windows Forms**  
+**JavaFX · C# Windows Forms** · team academic project  
 A music player with a JavaFX server and C# desktop client. Collaborative playlist voting and linked-list structures make client-server communication a central part of the project.
 
 ### [Text-Finder](https://github.com/Iagomez05/Text-Finder)
-**Academic project · Java · JavaFX · AVL tree**  
+**Java · JavaFX · AVL tree** · academic project  
 A desktop application that indexes and searches TXT, PDF, and DOCX documents. It applies parsing and data structures to document retrieval.
 
 ### [MPointers](https://github.com/Iagomez05/MPointers)
-**Academic project · C++**  
+**C++** · academic project  
 A pointer-wrapper project exploring reference tracking and linked lists. It demonstrates memory-management concepts and object-oriented design.
 
 ---
