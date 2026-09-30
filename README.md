@@ -25,8 +25,8 @@ A full-stack Formula 1 management application combining REST APIs, relational da
 A music player with a JavaFX server and C# desktop client. Collaborative playlist voting and linked-list structures make client-server communication a central part of the project.
 
 ### [Text-Finder](https://github.com/Iagomez05/Text-Finder)
-**Java · JavaFX · AVL tree** · academic project  
-A desktop application that indexes and searches TXT, PDF, and DOCX documents. It applies parsing and data structures to document retrieval.
+**Java · JavaFX · Apache POI · Apache PDFBox** · academic project<br>
+A desktop search application that parses TXT, PDF, and DOCX files, tokenizes and indexes normalized words in a custom AVL tree, and stores document occurrences in linked lists. It supports indexed word lookup, exact phrase search, sorting algorithms, and highlighted document previews.
 
 ### [MPointers](https://github.com/Iagomez05/MPointers)
 **C++** · academic project  
@@ -39,8 +39,9 @@ A pointer-wrapper project exploring reference tracking and linked lists. It demo
 - **Backend & APIs** — Node.js, Express, REST endpoints, and integration with relational databases.
 - **Databases & data integrity** — relational modeling in SQL Server, stored procedures, transactions, views, triggers, and integrity constraints.
 - **Client-server & system integration** — frontend/backend API communication and desktop networking across JavaFX and C# applications.
-- **Algorithms & data structures** — AVL trees, linked lists, and reference tracking in Text-Finder, Community Music Player, and MPointers.
-- **Desktop applications** — JavaFX and Windows Forms projects.
+- **Search, indexing & document processing** — tokenization, AVL-based word indexing, occurrence tracking, and TXT/PDF/DOCX parsing with Apache POI and PDFBox.
+- **Algorithms & data structures** — AVL trees, linked lists, Quick Sort, Bubble Sort, Radix Sort, and reference tracking across Text-Finder, Community Music Player, and MPointers.
+- **Desktop applications** — JavaFX document search and media applications alongside a C# Windows Forms client.
 - **Collaborative development** — system setup, debugging, manual testing, and teamwork through Git branches, pull requests, and merge-conflict resolution.
 
 ---
@@ -62,8 +63,11 @@ HTTP client: Axios
 **Databases & dashboards**  
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Desktop & tools**  
-JavaFX · Windows Forms · Git · GitHub · Maven · CMake
+**Desktop & document processing**<br>
+JavaFX · Windows Forms · Apache POI · Apache PDFBox
+
+**Tools**<br>
+Git · GitHub · Maven · CMake
 
 ---
 
